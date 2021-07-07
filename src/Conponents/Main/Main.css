@@ -1,0 +1,23 @@
+.select{
+    height: 50px;
+    width: 370px;
+    border: none;
+    background-color: #f5f6fa;
+    border-radius: 8px;
+}
+.text-area textarea{
+    margin-top: 18px;
+    background-color: #f5f6fa;
+    border-radius: 8px;
+    height: 130px;
+    width: 370px;
+    border: none;
+}
+.submit-area button{
+    margin-top: 30px;
+    border: none;
+    height: 40px;
+    width: 370px;
+    border-radius: 8px;
+    background-color: #4cd137;
+}
