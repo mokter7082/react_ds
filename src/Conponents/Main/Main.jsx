@@ -9,9 +9,9 @@ class Main extends Component{
                    <select className="select">
                        <option value="">Select</option>
                        <option value="">Bangla</option>
-                       <option value="">Math</option>
-                       <option value="">Science</option>
                        <option value="">English</option>
+                       <option value="">Math</option>
+                       <option value="">Biology</option>
                        <option value=""></option>
                    </select>
                 </div>
