@@ -12,7 +12,7 @@ class Main extends Component{
                        <option value="">English</option>
                        <option value="">Math</option>
                        <option value="">Biology</option>
-                       <option value=""></option>
+                       <option value="">Physics</option>
                    </select>
                 </div>
                 <div className="text-area">
